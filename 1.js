@@ -1,3 +1,3 @@
-functtion addNumber(a,b) {
-  return a+b;
+functtion deductNumber(a,b) {
+  return a-b;
 }
