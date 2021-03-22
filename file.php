@@ -1,3 +1,3 @@
 <?php
-  echo "Welcome. Again";
+  echo "Stay home. Again";
 ?>
